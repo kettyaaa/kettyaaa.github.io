@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.527773c5.css",
+    "main.js": "/static/js/main.989fc1cb.js",
+    "static/js/787.cd810cad.chunk.js": "/static/js/787.cd810cad.chunk.js",
+    "static/media/pic.jpg": "/static/media/pic.61e0539285b8fa22db2c.jpg",
+    "static/media/alexandra-tran-fS3tGOkp0xY-unsplash.jpg": "/static/media/alexandra-tran-fS3tGOkp0xY-unsplash.1b27eb3027d6d03a8d1b.jpg",
+    "static/media/victor-freitas-WvDYdXDzkhs-unsplash.jpg": "/static/media/victor-freitas-WvDYdXDzkhs-unsplash.3efeacbbcc32d41e8d10.jpg",
+    "static/media/logan-weaver-LzT-WMv1xrI-unsplash.jpg": "/static/media/logan-weaver-LzT-WMv1xrI-unsplash.725226a46983802acf8c.jpg",
+    "static/media/kelly-sikkema-IZOAOjvwhaM-unsplash.jpg": "/static/media/kelly-sikkema-IZOAOjvwhaM-unsplash.5c8c0afb6103e58f03e7.jpg",
+    "static/media/logan-weaver-u76Gd0hP5w4-unsplash.jpg": "/static/media/logan-weaver-u76Gd0hP5w4-unsplash.b585360e34deb157b614.jpg",
+    "static/media/meghan-holmes-buWcS7G1_28-unsplash.jpg": "/static/media/meghan-holmes-buWcS7G1_28-unsplash.2a424212b85165275ed5.jpg",
+    "static/media/scott-webb-5IsdIqwwNP4-unsplash.jpg": "/static/media/scott-webb-5IsdIqwwNP4-unsplash.67deef3fb9e6d17417fe.jpg",
+    "static/media/betti_v4.jpg": "/static/media/betti_v4.b84937deed773a88c3b0.jpg",
+    "static/media/offer_bg.png": "/static/media/offer_bg.3968a130d803b51e4003.png",
+    "static/media/contact_bg.png": "/static/media/contact_bg.46fdd674eea6a9e5b98b.png",
+    "static/media/about_bg.png": "/static/media/about_bg.d571d4d92b8df448cc1d.png",
+    "static/media/instagram_bg.png": "/static/media/instagram_bg.be846373cd1e4458c789.png",
+    "static/media/offer2.png": "/static/media/offer2.a6b41a928f8840cee9cf.png",
+    "index.html": "/index.html",
+    "main.527773c5.css.map": "/static/css/main.527773c5.css.map",
+    "main.989fc1cb.js.map": "/static/js/main.989fc1cb.js.map",
+    "787.cd810cad.chunk.js.map": "/static/js/787.cd810cad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527773c5.css",
+    "static/js/main.989fc1cb.js"
+  ]
+}
